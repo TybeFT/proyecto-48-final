@@ -1,4 +1,3 @@
-# proyecto-48-final
 # Cambios Proyecto Final
 
 Con respecto a la versiona pasada (main-46) nos quedamos lo siguiente:
@@ -60,5 +59,4 @@ _El juego sigue presentando fallas de fugas de memoria aunque relativamente meno
 ____
 
 Tuve que mover el código fuente de p5.play.js para llegar a la configuración final de algunos elementos como poder poner como invisibles los "edges" `(p5.play.js:4096, p5.play.js:4098, p5.play.js:4100, p5.play.js:4102)` o configurar la cámara con zoom `(p5.play.js:57)` . Establecer el frameRate `(p5.play.js:38)` o activar el useQuadTree `(p5.play.js:1395)`
-
 
